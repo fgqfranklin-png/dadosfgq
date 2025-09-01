@@ -1,5 +1,9 @@
 id,data_p,categ,tipo,valor,descricao
+<<<<<<< HEAD
 a10701,2021-07-05,Assinatura_App,FN,32.9,NETFLIXCOM SAO PAULO BRA
+=======
+a10701,2021-07-05,Assinatura_App,FN,32.9,NETFLIXCOM SP BRASIL
+>>>>>>> 1747805 (2 atualização tb_Desp.csv)
 a10702,2021-07-05,Tarifa bancaria,FE,24.25,ANUIDADE DIFERENCIADA TIT-PARC 04/12 BR
 a10703,2021-07-05,Compra extra,VN,25,LOJAS AMERICA PARC 07/12 RECIFE BR
 a10704,2021-07-05,Compra extra,VN,74.74,Amazon-Market PARC 01/04 SAO PAULO BR
@@ -2542,4 +2546,8 @@ a50763,2025-07-24,Saques,VN,100,Saque  Bco 24h 24/07 14:53 SHOPPING CARPINA CBDN
 a50764,2025-07-24,Estacionamento,VE,10,Compra pix estac 24/07 15:48 Marcelo Paulino De Lira
 a50765,2025-07-27,Outros pagtos,VE,213.4,Compra 27/07 13:04 Restaurante Acacia
 a50766,2025-07-30,Saques,VN,100,Saque ATM cartao 30/07 14:58 SOP-SHOPTACARUNA
+<<<<<<< HEAD
 a50767,2025-07-30,Outros pagtos,VE,150,Pagto pix serv-domest30/07 17:28 Ana Lucia Da Silva
+=======
+a50767,2025-07-30,Outros pagtos,VE,150,Pagto pix serv-domest30/07 17:28 Ana Lucia Da Silva
+>>>>>>> 1747805 (2 atualização tb_Desp.csv)
