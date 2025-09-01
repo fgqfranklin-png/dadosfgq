@@ -1,0 +1,27 @@
+id,icateg,tipo
+1,VE,VE
+2,Estacionamento,VE
+3,Extra-convenio,VE
+4,Farmacia,VE
+5,Gasolina,VE
+6,Energia_agua,VE
+7,Outros pagtos,VE
+8,Padaria,VE
+9,Supermercado,VE
+10,Veiculares,VE
+11,FE,FE
+12,Condominio,FE
+13,Convenio,FE
+14,Internet fixa,FE
+15,Investimento,FE
+16,Tarifa bancaria,FE
+17,Telefone movel,FE
+18,VN,VN
+19,Entretenimento,VN
+20,Compra extra,VN
+21,Restaurante,VN
+22,Saques,VN
+23,FN,FN
+24,Armaz_nuvem,FN
+25,Assinatura_App,FN
+26,Todas,ZZ
